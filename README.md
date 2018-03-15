@@ -1,2 +1,2 @@
 # grpid
-execute a specific epicmenu based on group membership
+execute a specific epicmenu based on group membership TST instance
